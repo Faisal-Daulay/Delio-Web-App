@@ -1,0 +1,11 @@
+<?php
+	session_start();
+	$_SESSION['jlh_item']=0;
+	$_SESSION['bonus']=0;
+	$_SESSION['item']=array();
+	$_SESSION['bonus']=array();
+	$_SESSION['total_bayar']=0;
+	$_SESSION['bayar']=0;
+	$_SESSION['kembalian']=0;
+	header("location:../../index.php?psg=customer/t_customer")
+?>

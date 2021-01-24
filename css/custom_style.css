@@ -1,0 +1,127 @@
+.content {
+	box-shadow: 0px 0px 2px;
+}
+
+.paging {
+	float: right;
+	margin-top: 15px;
+}
+
+#search {
+	width: 200px;
+	float: right;
+	margin-top: -65px;
+	margin-right: -15px;
+}
+
+#t_search {
+	float: right;
+	margin-top: -65px;
+	margin-right: -15px;
+}
+
+#list {
+	list-style: none;
+}
+
+.tombol {
+	margin: -50px 0px -30px -15px;
+}
+
+.table_top {
+	margin: -30px 0px 0px 0px;
+}
+
+.judul {
+	padding: 5;
+	margin-bottom: -7px;
+	text-transform: uppercase;
+}
+
+#datepicker {
+	width: 190px;
+}
+
+.kodepos {
+	width: 210px;
+}
+
+.merah {
+	background: #E5F5FF;
+}
+
+.hijau {
+	background: #E6FFCC;
+}
+
+.color1 {
+	background: #E5F5FF;
+}
+
+.color2 {
+	background: #E6FFCC;
+}
+
+/*.reseller span {
+	background: #FFFFCC;
+	color: white;
+	padding: 5px;
+	border-radius: 2px;
+}
+
+.seller span {
+	background:#E6FFCC;
+	color: white;
+	padding: 5px;
+	border-radius: 2px;	
+}*/
+
+.rupoh {
+	margin-bottom: 2px;
+}
+
+#pembayaran1 {
+	width: 400px;
+}
+
+#pembayaran1 td {
+	padding: 5px;
+}
+
+.daterange {
+	width: 202px;
+}
+
+.fromstyle {
+	width: 390px;
+}
+
+.centertd {
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.rupiahformat, .rupiahformat1 {
+	font-style: italic;
+	font-weight: bold;
+	text-align: left;
+}
+
+.img-hover img {
+	margin-left: 90px;
+	width: 200px;
+	height: 100px;
+	box-shadow: 0px 0px 2px;
+}
+
+.notifi {
+	background: orange;
+	color: black;
+	padding: 3px;
+	vertical-align: middle;
+	font-size: 10px;
+	margin-top: -20px;
+	border-radius: 50px;
+	box-shadow: 0px 0px 2px;
+}
